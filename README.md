@@ -1,3 +1,4 @@
+# PORTFOLIO_SHOWCASE
 # Quantum Computing Sector — Investment Research Dashboard
 
 **A self-directed data engineering + BI project**: an end-to-end pipeline that
