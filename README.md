@@ -35,8 +35,11 @@ public sentiment side by side — so I built one.
 ## Screenshots
 
 ![01_Stock_Price_Time_Series](./screenshots/01_Stock_Price_Time_Series.png)
+
 ![02_Quarterly_Revenue_Trend](./screenshots/02_Quarterly_Revenue_Trend.png) 
+
 ![03_Market_Size_Forecast](./screenshots/03_Market_Size_Forecast.png)
+
 ![04_Youtube_info](./screenshots/04_Youtube_info.png)
 
 
