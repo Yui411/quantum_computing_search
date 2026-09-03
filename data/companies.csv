@@ -1,0 +1,13 @@
+﻿name,ticker,category,approach,price_usd,market_cap_b,quarterly_revenue_m,ps_ratio,change_1mo_pct,change_ytd_pct,as_of,note
+IonQ,IONQ,Pure-play quantum,Trapped-ion,,,,,,,2026-09-03,Fetch error: Expecting value: line 1 column 1 (char 0)
+Rigetti Computing,RGTI,Pure-play quantum,Superconducting,,,,,,,2026-09-03,Fetch error: Expecting value: line 1 column 1 (char 0)
+D-Wave Quantum,QBTS,Pure-play quantum,Annealing + gate-model,,,,,,,2026-09-03,Fetch error: Expecting value: line 1 column 1 (char 0)
+Quantum Computing Inc.,QUBT,Pure-play quantum,Photonics,,,,,,,2026-09-03,Fetch error: Expecting value: line 1 column 1 (char 0)
+Quantinuum,,Pure-play quantum,Trapped-ion,,,,,,,2026-09-03,Not yet public / not covered by yfinance — update manually
+IQM Quantum Computers,,Pure-play quantum,Superconducting,,,,,,,2026-09-03,Not yet public / not covered by yfinance — update manually
+IBM,IBM,Big tech,Superconducting,,,,,,,2026-09-03,Fetch error: Expecting value: line 1 column 1 (char 0)
+Alphabet (Google),GOOG,Big tech,Superconducting,,,,,,,2026-09-03,Fetch error: Expecting value: line 1 column 1 (char 0)
+Microsoft,MSFT,Big tech,Topological,,,,,,,2026-09-03,Fetch error: Expecting value: line 1 column 1 (char 0)
+NVIDIA,NVDA,Big tech,CUDA-Q (hybrid platform),,,,,,,2026-09-03,Fetch error: Expecting value: line 1 column 1 (char 0)
+SEALSQ,LAES,Post-quantum security,Quantum-resistant semiconductors / PKI,,,,,,,2026-09-03,Fetch error: Expecting value: line 1 column 1 (char 0)
+BTQ Technologies,BTQ,Post-quantum security,Post-quantum cryptography,,,,,,,2026-09-03,Fetch error: Expecting value: line 1 column 1 (char 0)
