@@ -36,7 +36,7 @@ public sentiment side by side — so I built one.
 
 *(Add exported PNGs from Power BI here — see "Adding your own screenshots" below)*
 
-![Dashboard overview](./screenshots/dashboard_overview.png)
+![Dashboard overview](./screenshots/01_Stock_Price_Time_Series.png)
 ![YouTube mentions by country and language](./screenshots/youtube_geo_breakdown.png)
 ![Quarterly revenue, fiscal-year aligned](./screenshots/revenue_trend.png)
 
