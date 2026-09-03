@@ -114,13 +114,6 @@ on-premises gateway required).
   classifier — chosen for transparency and zero cost, with limitations
   documented in `README_Databricks.md`
 
-## Adding your own screenshots
-
-1. In Power BI, open the report → **File → Export → Export to PDF**, or use
-   **File → Export → Export this page as image** for individual pages
-2. Save PNGs into a `screenshots/` folder next to this file
-3. Update the image links above to match your filenames
-
 ## Links
 
 - Full technical documentation: [`README_Databricks.md`](./README_Databricks.md), [`README_PowerBI.md`](./README_PowerBI.md)
